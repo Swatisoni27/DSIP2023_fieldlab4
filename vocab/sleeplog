@@ -1,0 +1,1 @@
+This endpoint returns a list of a user's sleep log entries before or after a given date, and specifying offset, limit and sort order. The data returned for different dates can include sleep periods that began on the previous date.
