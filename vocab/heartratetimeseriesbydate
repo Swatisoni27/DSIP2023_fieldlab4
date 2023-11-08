@@ -1,0 +1,1 @@
+Retrieves the heart rate time series data over a period of time by specifying a date and time period. The response will include only the daily summary values.
