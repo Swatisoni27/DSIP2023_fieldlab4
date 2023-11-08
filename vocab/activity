@@ -1,0 +1,3 @@
+The Activity endpoints are used to query and/or modify a Fitbit user's daily activity data. The information returned is the step count, 
+distance, elevation, floors, calories burned, active minutes, activity goals, exercise details, etc. The Activity endpoints support returning 
+Intraday data (see Intraday).
